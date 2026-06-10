@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>NSMicrophoneUsageDescription</key>
+	<string>VisualCSGuide uses the microphone to let you explain concepts in your own words and receive AI feedback.</string>
+	<key>NSSpeechRecognitionUsageDescription</key>
+	<string>VisualCSGuide uses speech recognition to transcribe your explanations for AI-powered feedback.</string>
+</dict>
+</plist>
